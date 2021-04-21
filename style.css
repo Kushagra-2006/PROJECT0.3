@@ -1,0 +1,44 @@
+body{
+    background-image: url('om.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+th{
+    border:10px solid gold;
+    background-color:silver;
+    text-align: center;
+    padding: 10px;
+    margin: 10%;
+    
+}
+td{
+    border:10px solid gold;
+    background-color:white;
+    text-align:center;
+    padding:10px;
+    margin: 10%;
+}
+table,th,td{
+    border-collapse: collapse;
+}
+h1{
+    color:gold;
+    text-align: center;
+    background-color: black;
+}
+h3{
+
+    background:gold;
+
+
+}
+
+
+h4{
+    color:gold;
+    background-color: gray;
+    text-align: right;
+    border:10px solid black;
+    font-size: large; 
+}
