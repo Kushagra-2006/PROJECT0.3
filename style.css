@@ -42,3 +42,7 @@ h4{
     border:10px solid black;
     font-size: large; 
 }
+table.center{
+    margin-left:auto;
+    margin-right:auto;
+}
